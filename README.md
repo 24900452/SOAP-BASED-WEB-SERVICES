@@ -4,7 +4,7 @@
 
 To create SOAP-based web services using both server-side and client-side implementations.
 
-## Procedure
+
 
 ### Server-Side Implementation
 
